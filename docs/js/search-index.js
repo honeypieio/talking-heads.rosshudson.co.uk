@@ -10,6 +10,8 @@ var searchIndexObj = {}
 
   searchIndexObj["burning down the house"] = {"title": "Burning Down The House", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/speaking-in-tongues/burning-down-the-house/"}
 
+  searchIndexObj["damage i've done"] = {"title": "Damage I've Done", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/damage-ive-done/"}
+
   searchIndexObj["fuzzy freaky"] = {"title": "Fuzzy Freaky", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/feelings/fuzzy-freaky/"}
 
   searchIndexObj["hanging upside down"] = {"title": "Hanging Upside Down", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/hanging-upside-down/"}
@@ -21,6 +23,8 @@ var searchIndexObj = {}
   searchIndexObj["independence day"] = {"title": "Independence Day", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/rei-momo/independence-day/"}
 
   searchIndexObj["love for sale"] = {"title": "Love For Sale", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/true-stories/love-for-sale/"}
+
+  searchIndexObj["no talking, just head"] = {"title": "No Talking, Just Head", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/"}
 
   searchIndexObj["now i'm your mom"] = {"title": "Now I'm Your Mom", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/now-im-your-mom/"}
 
@@ -64,6 +68,8 @@ var searchIndexObj = {}
 
   searchIndexObj["rei momo"] = {"title": "Rei Momo", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/rei-momo/"}
 
+  searchIndexObj["the king is gone"] = {"title": "The King Is Gone", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/the-king-is-gone/"}
+
   searchIndexObj["with our love"] = {"title": "With Our Love", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/with-our-love/"}
 
   searchIndexObj["crash"] = {"title": "Crash", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/crash/"}
@@ -106,6 +112,8 @@ var searchIndexObj = {}
 
   searchIndexObj["my big hands (fall through the cracks)"] = {"title": "My Big Hands (Fall Through the Cracks)", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/the-catherine-wheel/my-big-hands-fall-through-the-cracks/"}
 
+  searchIndexObj["never mind"] = {"title": "Never Mind", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/never-mind/"}
+
   searchIndexObj["once in a lifetime"] = {"title": "Once In A Lifetime", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/once-in-a-lifetime/"}
 
   searchIndexObj["papa legba"] = {"title": "Papa Legba", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/true-stories/papa-legba/"}
@@ -138,6 +146,8 @@ var searchIndexObj = {}
 
   searchIndexObj["life during wartime"] = {"title": "Life During Wartime", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/fear-of-music/life-during-wartime/"}
 
+  searchIndexObj["no big bang"] = {"title": "No Big Bang", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/no-big-bang/"}
+
   searchIndexObj["perfect world"] = {"title": "Perfect World", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/little-creatures/perfect-world/"}
 
   searchIndexObj["the girls want to be with the girls"] = {"title": "The Girls Want To Be With The Girls", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/the-girls-want-to-be-with-the-girls/"}
@@ -155,6 +165,8 @@ var searchIndexObj = {}
   searchIndexObj["air"] = {"title": "Air", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/fear-of-music/air/"}
 
   searchIndexObj["amnesia"] = {"title": "Amnesia", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/feelings/amnesia/"}
+
+  searchIndexObj["don't take my kindness for weakness"] = {"title": "Don't Take My Kindness For Weakness", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/dont-take-my-kindness-for-weakness/"}
 
   searchIndexObj["eggs in a briar patch"] = {"title": "Eggs In A Briar Patch", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/the-catherine-wheel/eggs-in-a-briar-patch/"}
 
@@ -192,6 +204,8 @@ var searchIndexObj = {}
 
   searchIndexObj["moon rocks"] = {"title": "Moon Rocks", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/speaking-in-tongues/moon-rocks/"}
 
+  searchIndexObj["no more lonely nights"] = {"title": "No More Lonely Nights", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/no-more-lonely-nights/"}
+
   searchIndexObj["nothing at all"] = {"title": "Nothing At All", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/nothing-at-all/"}
 
   searchIndexObj["poison"] = {"title": "Poison", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/the-catherine-wheel/poison/"}
@@ -219,6 +233,8 @@ var searchIndexObj = {}
   searchIndexObj["electric guitar"] = {"title": "Electric Guitar", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/fear-of-music/electric-guitar/"}
 
   searchIndexObj["i'm not in love"] = {"title": "I'm Not In Love", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/im-not-in-love/"}
+
+  searchIndexObj["indie hair"] = {"title": "Indie Hair", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/indie-hair/"}
 
   searchIndexObj["my love is you"] = {"title": "My Love Is You", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/my-love-is-you/"}
 
@@ -268,6 +284,8 @@ var searchIndexObj = {}
 
   searchIndexObj["good and evil"] = {"title": "Good And Evil", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/rei-momo/good-and-evil/"}
 
+  searchIndexObj["only the lonely"] = {"title": "Only the Lonely", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/only-the-lonely/"}
+
   searchIndexObj["psycho killer"] = {"title": "Psycho Killer", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/talking-heads-77/psycho-killer/"}
 
   searchIndexObj["sand in the vaseline"] = {"title": "Sand In The Vaseline", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/sand-in-the-vaseline/"}
@@ -282,6 +300,8 @@ var searchIndexObj = {}
 
   searchIndexObj["lie to me"] = {"title": "Lie To Me", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/rei-momo/lie-to-me/"}
 
+  searchIndexObj["paper snow"] = {"title": "Paper Snow", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/paper-snow/"}
+
   searchIndexObj["pulled up"] = {"title": "Pulled Up", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/talking-heads-77/pulled-up/"}
 
   searchIndexObj["strange ritual"] = {"title": "Strange Ritual", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/strange-ritual/"}
@@ -289,6 +309,8 @@ var searchIndexObj = {}
   searchIndexObj["the big country"] = {"title": "The Big Country", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/the-big-country/"}
 
   searchIndexObj["tiny town"] = {"title": "Tiny Town", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/tiny-town/"}
+
+  searchIndexObj["big blue moon"] = {"title": "Big Blue Moon", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/big-blue-moon/"}
 
   searchIndexObj["buck naked"] = {"title": "Buck Naked", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/buck-naked/"}
 
@@ -316,6 +338,8 @@ var searchIndexObj = {}
 
   searchIndexObj["popsicle"] = {"title": "Popsicle", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/sand-in-the-vaseline/popsicle/"}
 
+  searchIndexObj[""] = {"title": "", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/no-talking-just-head/no-talking-just-head/"}
+
   searchIndexObj["about"] = {"title": "About", "permalink": "https://talking-heads.rosshudson.co.uk/about/"}
 
   searchIndexObj["bill"] = {"title": "Bill", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/naked/bill/"}
@@ -329,6 +353,8 @@ var searchIndexObj = {}
   searchIndexObj["tags"] = {"title": "Tags", "permalink": "https://talking-heads.rosshudson.co.uk/tags/"}
 
   searchIndexObj["talking heads"] = {"title": "Talking Heads", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/"}
+
+  searchIndexObj["the heads"] = {"title": "The Heads", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/"}
 
   searchIndexObj["sax-and-violins"] = {"title": "sax-and-violins", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/naked/sax-and-violins/"}
 
