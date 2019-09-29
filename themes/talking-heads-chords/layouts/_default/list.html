@@ -1,0 +1,46 @@
+{{ define "main" }}
+  {{ if (eq .Type "artist") }}
+    <ul class="image-list-small">
+      {{ range .Sections }}
+        <li>
+          <a href="{{ .Permalink }}" style="background-image: url('{{ .Site.BaseURL }}images/{{ .File.Dir }}cover.jpg');"></a>
+          <div class="details">
+            <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+            <!--<p class="extra-info">{{ $.Scratch.Get "numberOfSongs" }} songs</p>-->
+          </div>
+        </li>
+      {{ end }}
+    </ul>
+  {{ else }}
+
+    <ul class="image-list-small">
+      <li>
+        <a href="{{ .Permalink }}" style="background-image: url('{{ .Site.BaseURL }}images/{{ .File.Dir }}cover.jpg');"></a>
+        <div class="details">
+          <h3>{{ .Title }}</h3>
+          {{ if .Params.releaseDate }}
+            <p class="extra-info">Released: {{ dateFormat "2 January 2006" .Params.releaseDate}}</p>
+          {{ end }}
+          {{ if .Params.moreInfo }}
+            <p class="extra-info">
+              &#x1F4F0; <a href="{{ .Params.moreInfo }}" target="_blank">Further Reading</a>
+            </p>
+          {{ end }}
+          {{ if .Params.listen}}
+            <p class="extra-info">
+              &#x1F3A7; <a href="{{ .Params.listen }}" target="_blank">Listen</a>
+            </p>
+          {{ end }}
+        </div>
+      </li>
+    </ul>
+
+    <ul class="no-bullet" style="text-align: center;">
+      {{ range .Pages }}
+        <li>
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </li>
+      {{ end }}
+    </ul>
+  {{ end }}
+{{ end }}

@@ -1,0 +1,24 @@
+{
+  "baseURL": "https://talking-heads.rosshudson.co.uk",
+  "title": "Talking Heads Chords",
+  "theme": "talking-heads-chords",
+  "publishDir": "docs",
+  "params": {
+    "webmasterEmailUser": "hello",
+    "webmasterEmailDomain": "rosshudson",
+    "webmasterEmailTLD": ".co.uk",
+    "description": "The most comprehensive collection of Talking Heads chords on the net",
+    "footerText": "The content on this site is strictly for informational and educational purposes only.",
+    "footerLinks": "<a href='https://github.com/honeypieio/talking-heads.rosshudson.co.uk' target='_blank'>View Source</a> | Powered by <a href='https://gohugo.io/' target='_blank'>Hugo</a>"
+  },
+  "menu": {
+    "main": [
+      {
+        "identifier": "about",
+        "name": "About",
+        "url": "/about",
+        "weight": 1
+      }
+    ]
+  }
+}

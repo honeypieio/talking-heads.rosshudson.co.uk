@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+  <h1>{{ .Title }}</h1>
+
+  <div class="page-content">
+    {{ .Content }}
+  </div>
+  <script>
+    var b5hyw6fyPRF2gpEv = {
+      W4qNWvmRr3npVsKh: '{{ base64Encode "mailto:" }}',
+      Ed7jdY2PqadwVs3q: "{{ base64Encode .Site.Params.webmasterEmailUser }}",
+      W6PjrLscx2vmXmEp: "{{ base64Encode .Site.Params.webmasterEmailDomain }}",
+      Hz7Uf5LmvXvjYkM6: "{{ base64Encode .Site.Params.webmasterEmailTLD }}"
+    };
+
+    var element = document.getElementById("address-div");
+
+    element.href =
+      atob(b5hyw6fyPRF2gpEv.W4qNWvmRr3npVsKh) +
+      atob(b5hyw6fyPRF2gpEv.Ed7jdY2PqadwVs3q) +
+      "@" +
+      atob(b5hyw6fyPRF2gpEv.W6PjrLscx2vmXmEp) +
+      atob(b5hyw6fyPRF2gpEv.Hz7Uf5LmvXvjYkM6);
+    element.innerHTML =
+      atob(b5hyw6fyPRF2gpEv.Ed7jdY2PqadwVs3q) +
+      "@" +
+      atob(b5hyw6fyPRF2gpEv.W6PjrLscx2vmXmEp) +
+      atob(b5hyw6fyPRF2gpEv.Hz7Uf5LmvXvjYkM6);
+    </script>
+
+{{ end }}

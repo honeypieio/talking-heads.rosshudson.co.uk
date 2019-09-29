@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <h1 class="mb-0">Welcome!</h1>
+  <p>Find the chords for your favourite Talking Heads songs! Use the search bar if you know what you're looking for, or simply browse through all the entries using the icons below.</p>
+  <p class="mb-4">Learn more about this project on the <a href="/about">about page</a>.</p>
+
+  <ul class="image-list-small">
+    {{ range .Sections }}
+      <li>
+        <a href="{{ .Permalink }}" style="background-image: url('{{ .Site.BaseURL }}images/{{ .File.Dir }}/cover.jpg');"></a>
+        <div class="details">
+          <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+          <!--<p class="extra-info">{{ $.Scratch.Get "numberOfSongs" }} songs</p>-->
+        </div>
+      </li>
+    {{ end }}
+  </ul>
+{{ end }}

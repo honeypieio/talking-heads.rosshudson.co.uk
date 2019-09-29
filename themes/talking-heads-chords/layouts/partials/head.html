@@ -1,0 +1,18 @@
+
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    {{ if .Description }}
+      <meta name="description" content="{{ .Description }}" />
+    {{ else }}
+      <meta name="description" content="{{ .Title }} Chords" />
+    {{ end }}
+
+    <title>{{ .Title }} :: {{ .Site.Title }}</title>
+
+    <link rel="stylesheet" href="{{ .Site.BaseURL}}css/normalize.css" type="text/css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL}}css/style.css" type="text/css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL}}css/margin-classes.css" type="text/css" />
+
+  </head>

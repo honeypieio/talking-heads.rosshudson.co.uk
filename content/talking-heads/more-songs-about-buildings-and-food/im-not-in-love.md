@@ -1,0 +1,45 @@
+{"title": "I'm Not In Love",
+"weight":8}
+
+(tURN YOUR PITCH A LITTLE HIGHER)
+
+|:Am   |    |    |Am Gm F Gm :|
+...Pretty!
+What is? Brand new? Well that's not the way I think of you.
+You'll touch me, in a minute; but that's not what I want to do.
+|:C Bm      :|
+We are two strangers,
+We might never have met.
+We can talk forever, I understand what you said.
+          C   Bm  G
+But I'm...not in love.
+                      C   Bm  G
+What does it take to fall in love?
+                  C   Bm  A
+Do people really fall in love?
+
+(REST AS ABOVE)
+
+...Happy!
+Is there time for this? Is this responsibility?
+Girl time, boy time, is that the difference between me and you?
+I won't ask any questions,
+Who needs to make a new start?
+I choose to believe you,
+I said before that I can't.
+...'Cause I'm not in love.
+What does it take to fall in love?
+Why would I want to fall in love?
+
+...Feeling!
+Take it easy baby...Don't let your feelings get in the way.
+Some day, I believe, we can live in a world without love.
+I can answer your questions,
+If you won't twist what I say.
+Please respect my opinions,
+They will be respected some day.
+Because we don't need love.
+I believe that we don't need love.
+There'll come a day when we won't need love.
+
+(fREAK oN...)

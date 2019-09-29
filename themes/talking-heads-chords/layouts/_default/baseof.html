@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  {{- partial "head.html" . -}}
+  <body>
+
+      <div class="sidebar">
+        <div class="container mt-4 mp-0">
+          {{- partial "sidebar.html" . -}}
+        </div>
+      </div>
+      <div class="page-wrapper">
+        <div class="container mt-4 mp-0">
+          {{- block "main" . }}{{- end }}
+          {{- partial "footer.html" . -}}
+        </div>
+      </div>
+      {{- partial "search-index.html" . -}}
+      <script src="{{ .Site.BaseURL }}js/search.js"></script>
+  </body>
+</html>
