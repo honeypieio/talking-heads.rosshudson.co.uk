@@ -316,6 +316,8 @@ var searchIndexObj = {}
 
   searchIndexObj["love → building on fire"] = {"title": "Love → Building On Fire", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/talking-heads-77/love-goes-to-building-on-fire/"}
 
+  searchIndexObj["sax and violins"] = {"title": "Sax And Violins", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/naked/sax-and-violins/"}
+
   searchIndexObj["somebody"] = {"title": "Somebody", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/somebody/"}
 
   searchIndexObj["the civil wars"] = {"title": "The Civil Wars", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/feelings/the-civil-wars/"}
@@ -355,8 +357,6 @@ var searchIndexObj = {}
   searchIndexObj["talking heads"] = {"title": "Talking Heads", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/"}
 
   searchIndexObj["the heads"] = {"title": "The Heads", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/"}
-
-  searchIndexObj["sax-and-violins"] = {"title": "sax-and-violins", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/naked/sax-and-violins/"}
 
 
 var searchIndex = Object.keys(searchIndexObj);
