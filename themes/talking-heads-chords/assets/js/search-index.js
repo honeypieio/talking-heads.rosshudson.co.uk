@@ -1,0 +1,6 @@
+var searchIndexObj = {}
+{{ range .Site.Pages }}
+  searchIndexObj["{{ lower .Title }}"] = {"title": "{{ .Title }}", "permalink": "{{ .Permalink }}"}
+{{ end }}
+
+var searchIndex = Object.keys(searchIndexObj);

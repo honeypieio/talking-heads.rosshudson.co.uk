@@ -14,7 +14,9 @@
           {{- partial "footer.html" . -}}
         </div>
       </div>
-      {{- partial "search-index.html" . -}}
+      {{ $js := resources.Get "/js/search-index.js" }}
+      {{ $jsProc:= $js | resources.ExecuteAsTemplate "/js/search-index.js" . }}
+      <script type="text/javascript" src="{{ $jsProc.Permalink }}"></script>
       <script src="{{ .Site.BaseURL }}js/search.js"></script>
   </body>
 </html>
