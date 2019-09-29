@@ -1,6 +1,7 @@
 
 {
-  "title": "A Soft Seduction"
+  "title": "A Soft Seduction",
+  "weight": 3
 }
 
 |:Bm   |F#m   :|
