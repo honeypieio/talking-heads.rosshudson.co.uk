@@ -2,7 +2,7 @@
 <html>
   {{- partial "head.html" . -}}
   <body>
-
+    <div class="body-wrapper">
       <div class="sidebar">
         <div class="container mt-4 mp-0">
           {{- partial "sidebar.html" . -}}
@@ -14,9 +14,10 @@
           {{- partial "footer.html" . -}}
         </div>
       </div>
-      {{ $js := resources.Get "/js/search-index.js" }}
-      {{ $jsProc:= $js | resources.ExecuteAsTemplate "/js/search-index.js" . }}
-      <script type="text/javascript" src="{{ $jsProc.Permalink }}"></script>
-      <script src="{{ .Site.BaseURL }}js/search.js"></script>
+    </div>
+    {{ $js := resources.Get "/js/search-index.js" }}
+    {{ $jsProc:= $js | resources.ExecuteAsTemplate "/js/search-index.js" . }}
+    <script type="text/javascript" src="{{ $jsProc.Permalink }}"></script>
+    <script src="{{ .Site.BaseURL }}js/search.js"></script>
   </body>
 </html>

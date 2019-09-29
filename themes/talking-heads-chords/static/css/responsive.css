@@ -1,0 +1,33 @@
+/* lg */
+@media (max-width: 992px) {
+  .sidebar {
+    flex: 1 1 auto;
+  }
+
+  .page-wrapper {
+    margin-top: -80px;
+    flex: 1 1 auto;
+  }
+
+  .sidebar .header {
+    margin-top: 0;
+  }
+}
+
+/* xl */
+@media (min-width: 1145px) {
+  .sidebar {
+    flex: 0 0 350px;
+    margin-left: 7.5%;
+  }
+  .page-wrapper {
+    margin-top: 0;
+    flex: 1;
+    flex-wrap: wrap;
+    padding-right: 10%;
+  }
+
+  .sidebar .header {
+     margin-top: 0;
+   }
+}
