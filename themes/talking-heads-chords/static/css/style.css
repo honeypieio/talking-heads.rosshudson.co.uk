@@ -37,8 +37,6 @@
 }
  .sidebar .header {
      font-weight: bold;
-     margin-top: -30px;
-
 }
  .sidebar .header a {
      color: inherit;
@@ -47,13 +45,13 @@
      font-size: small;
      color: #555;
 }
+
  .page-wrapper {
-   margin-top: -80px;
    flex: 1 1 auto;
      position: relative;
 }
  .container {
-     padding: 2.0rem;
+     padding: 1.0rem;
 }
  .x-container {
      padding: 0 2.0rem 0 2.0rem;
