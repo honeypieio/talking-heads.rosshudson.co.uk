@@ -1,4 +1,5 @@
 {
   "title": "The Heads",
-  "type": "artist"
+  "type": "artist",
+  "weight": 3
 }

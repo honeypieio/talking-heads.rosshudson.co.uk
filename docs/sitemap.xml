@@ -59,6 +59,10 @@
   </url>
   
   <url>
+    <loc>https://talking-heads.rosshudson.co.uk/talking-heads/</loc>
+  </url>
+  
+  <url>
     <loc>https://talking-heads.rosshudson.co.uk/talking-heads/talking-heads-77/</loc>
   </url>
   
@@ -84,6 +88,10 @@
   
   <url>
     <loc>https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/crosseyed-and-painless/</loc>
+  </url>
+  
+  <url>
+    <loc>https://talking-heads.rosshudson.co.uk/david-byrne/</loc>
   </url>
   
   <url>
@@ -188,6 +196,10 @@
   
   <url>
     <loc>https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/the-great-curve/</loc>
+  </url>
+  
+  <url>
+    <loc>https://talking-heads.rosshudson.co.uk/the-heads/</loc>
   </url>
   
   <url>
@@ -700,24 +712,12 @@
   </url>
   
   <url>
-    <loc>https://talking-heads.rosshudson.co.uk/david-byrne/</loc>
-  </url>
-  
-  <url>
     <loc>https://talking-heads.rosshudson.co.uk/</loc>
   </url>
   
   <url>
     <loc>https://talking-heads.rosshudson.co.uk/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://talking-heads.rosshudson.co.uk/talking-heads/</loc>
-  </url>
-  
-  <url>
-    <loc>https://talking-heads.rosshudson.co.uk/the-heads/</loc>
   </url>
   
 </urlset>

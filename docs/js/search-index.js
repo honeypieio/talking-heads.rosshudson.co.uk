@@ -28,6 +28,8 @@ var searchIndexObj = {}
 
   searchIndexObj["now i'm your mom"] = {"title": "Now I'm Your Mom", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/now-im-your-mom/"}
 
+  searchIndexObj["talking heads"] = {"title": "Talking Heads", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/"}
+
   searchIndexObj["talking heads: 77"] = {"title": "Talking Heads: 77", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/talking-heads-77/"}
 
   searchIndexObj["thank you for sending me an angel"] = {"title": "Thank You For Sending Me An Angel", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/thank-you-for-sending-me-an-angel/"}
@@ -41,6 +43,8 @@ var searchIndexObj = {}
   searchIndexObj["angels"] = {"title": "Angels", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/david-byrne/angels/"}
 
   searchIndexObj["crosseyed & painless"] = {"title": "Crosseyed & Painless", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/crosseyed-and-painless/"}
+
+  searchIndexObj["david byrne"] = {"title": "David Byrne", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/"}
 
   searchIndexObj["girls on my mind"] = {"title": "Girls On My Mind", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/girls-on-my-mind/"}
 
@@ -93,6 +97,8 @@ var searchIndexObj = {}
   searchIndexObj["the good thing"] = {"title": "The Good Thing", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/more-songs-about-buildings-and-food/the-good-thing/"}
 
   searchIndexObj["the great curve"] = {"title": "The Great Curve", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/the-great-curve/"}
+
+  searchIndexObj["the heads"] = {"title": "The Heads", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/"}
 
   searchIndexObj["totally nude"] = {"title": "Totally Nude", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/naked/totally-nude/"}
 
@@ -244,7 +250,7 @@ var searchIndexObj = {}
 
   searchIndexObj["television man"] = {"title": "Television Man", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/little-creatures/television-man/"}
 
-  searchIndexObj["the cowboy mambo (key lookit me now)"] = {"title": "The Cowboy Mambo (Key Lookit Me Now)", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/the-cowboy-mambo/"}
+  searchIndexObj["the cowboy mambo (hey lookit me now)"] = {"title": "The Cowboy Mambo (Hey Lookit Me Now)", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/uh-oh/the-cowboy-mambo/"}
 
   searchIndexObj["the overload"] = {"title": "The Overload", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/remain-in-light/the-overload/"}
 
@@ -348,15 +354,9 @@ var searchIndexObj = {}
 
   searchIndexObj["categories"] = {"title": "Categories", "permalink": "https://talking-heads.rosshudson.co.uk/categories/"}
 
-  searchIndexObj["david byrne"] = {"title": "David Byrne", "permalink": "https://talking-heads.rosshudson.co.uk/david-byrne/"}
-
   searchIndexObj["home"] = {"title": "Home", "permalink": "https://talking-heads.rosshudson.co.uk/"}
 
   searchIndexObj["tags"] = {"title": "Tags", "permalink": "https://talking-heads.rosshudson.co.uk/tags/"}
-
-  searchIndexObj["talking heads"] = {"title": "Talking Heads", "permalink": "https://talking-heads.rosshudson.co.uk/talking-heads/"}
-
-  searchIndexObj["the heads"] = {"title": "The Heads", "permalink": "https://talking-heads.rosshudson.co.uk/the-heads/"}
 
 
 var searchIndex = Object.keys(searchIndexObj);

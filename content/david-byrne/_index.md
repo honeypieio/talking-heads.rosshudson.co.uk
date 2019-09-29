@@ -1,4 +1,5 @@
 {
   "title": "David Byrne",
-  "type": "artist"
+  "type": "artist",
+  "weight": 2
 }

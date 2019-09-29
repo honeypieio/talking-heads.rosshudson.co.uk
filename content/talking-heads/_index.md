@@ -1,4 +1,5 @@
 {
   "title": "Talking Heads",
-  "type": "artist"
+  "type": "artist",
+  "weight": 1
 }

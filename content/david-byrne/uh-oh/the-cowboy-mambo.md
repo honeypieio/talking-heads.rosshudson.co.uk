@@ -1,5 +1,5 @@
 {
-  "title": "The Cowboy Mambo (Key Lookit Me Now)", "weight": 8
+  "title": "The Cowboy Mambo (Hey Lookit Me Now)", "weight": 8
 }
 
 
